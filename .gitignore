@@ -1,0 +1,7 @@
+sudoku/sudoku
+sudoku/sudoku-server
+*.test
+*.out
+.DS_Store
+.idea/
+.vscode/
